@@ -1,5 +1,5 @@
 <p align="center"><b>⬇ This repo hosts Clusterdeck's built binaries and releases.</b><br/>
-Source code lives in <a href="https://github.com/clusterdeck/app">clusterdeck/app</a> (private) — nothing below is duplicated code, just the README so this page explains the project too.</p>
+The README below describes the project and how to install it.</p>
 
 ---
 
